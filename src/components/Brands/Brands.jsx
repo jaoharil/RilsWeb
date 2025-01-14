@@ -1,6 +1,6 @@
 import React from 'react';
 import Brand1 from '../../assets/brand/Anime.png';
-import Brand2 from '../../assets/brand/Shope.png';
+import Brand2 from '../../assets/brand/shope.png';
 import Brand3 from '../../assets/brand/spk.png';
 import Brand4 from '../../assets/brand/defoode.png';
 import Brand5 from '../../assets/brand/rental.png';
