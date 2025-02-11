@@ -5,7 +5,7 @@ import { SlideUp } from '../../animation/animate';
 
 const Hero = () => {
   const waNumber = '6283192923713'; // Ganti dengan nomor WhatsApp tujuan
-  const waMessage = encodeURIComponent('Halo, saya tertarik untuk mengetahui lebih lanjut tentang Metra FC');
+  const waMessage = encodeURIComponent('Halo, saya tertarik untuk membuat website di rilsweb');
 
   return (
     <div className="container">
