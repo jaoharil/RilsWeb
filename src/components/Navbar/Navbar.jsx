@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import Logo from '../../assets/1RB.png';
 import { motion } from 'framer-motion';
 
