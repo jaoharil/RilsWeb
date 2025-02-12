@@ -20,11 +20,11 @@ const Banner = () => {
             <motion.p variants={SlideUp(0.4)} initial="initial" whileInView="animate" className="text-gray-500 text-sm leading-7">
               Kami akan selalu mengasih layanan terbaik kamai untuk mewujudkan impian yang anda inginkan{' '}
             </motion.p>
-            <div>
+            {/* <div>
               <motion.button variants={SlideUp(0.6)} initial="initial" whileInView="animate" className="primary-btn bg-black text-white shadow-[5px_5px_0px_0px_#6c6c6c]">
                 Contact Kami
               </motion.button>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

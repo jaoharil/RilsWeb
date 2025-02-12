@@ -31,11 +31,11 @@ const Banner2 = () => {
                 <p className="text-gray-500 text-sm">Award Gained</p>
               </div>
             </motion.div>
-            <div>
+            {/* <div>
               <motion.button variants={SlideUp(0.6)} initial="initial" whileInView="animate" className="primary-btn bg-black text-white shadow-[5px_5px_0px_0px_#6c6c6c]">
                 Contact Us
               </motion.button>
-            </div>
+            </div> */}
           </div>
 
           {/* image section */}

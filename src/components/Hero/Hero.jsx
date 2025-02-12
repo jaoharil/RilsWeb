@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { SlideUp } from '../../animation/animate';
 
 const Hero = () => {
-  const waNumber = '6283192923713'; // Ganti dengan nomor WhatsApp tujuan
+  const waNumber = '6287848501496'; // Ganti dengan nomor WhatsApp tujuan
   const waMessage = encodeURIComponent('Halo, saya tertarik untuk membuat website di rilsweb');
 
   return (
